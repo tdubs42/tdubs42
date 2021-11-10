@@ -1,6 +1,6 @@
 ![Heyo, tdubs here. Full stack web developer, a homesteader and elder tech enthusiast. 
 Check 
-out my work](https://github.com/tdubs42/tdubs42/raw/main/bio.mp4)
+out my work](bio.mp4)
 
 
 <!--
