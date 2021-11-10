@@ -1,6 +1,8 @@
 ![Heyo, tdubs here. Full stack web developer, a homesteader and elder tech enthusiast. 
 Check 
-out my work](https://github.com/tdubs42/tdubs42/raw/main/bio.gif)
+out my work](https://www.canva.com/design/DAEvQ8j-tVs/RAbqy3FtUEf32HMVRlC8DA/view?
+utm_content=DAEvQ8j-tVs&utm_campaign=designshare&utm_medium=link&utm_source
+=publishpresent.png)
 
 
 <!--
