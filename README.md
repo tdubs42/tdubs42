@@ -1,7 +1,5 @@
-![Heyo, tdubs here. Full stack web developer, a homesteader and elder tech enthusiast. 
-Check 
-out my work](bio.mp4)
-
+![Heyo, my name is tdubs and I'm a full stack web developer that advocates for 
+accessibility. Let's chat!](https://media.giphy.com/media/b93CHnmg3bWKazmUpP/giphy.gif)
 
 <!--
 **tdubs42/tdubs42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
