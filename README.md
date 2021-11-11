@@ -1,3 +1,4 @@
+<body text-align="center">
 ![Heyo, my name is tdubs and I'm a full stack web developer that advocates for accessibility. Let's chat!](https://github.com/tdubs42/tdubs42/blob/main/bio.gif) 
 ![tdubs' GitHub stats](https://github-readme-stats.vercel.app/api?username=tdubs42&&count_private=true&show_icons=true&theme=gotham)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tdubs42&layout=compact&theme=gotham)](https://github.com/tdubs42/github-readme-stats)
