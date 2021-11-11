@@ -2,8 +2,6 @@
 
 # Current Projects
 
-## Let's talk about your project <img src="https://github.com/tdubs42/tdubs42/blob/main/wave.gif" width="30px">
-
 ![tdubs' GitHub stats](https://github-readme-stats.vercel.app/api?username=tdubs42&&count_private=true&show_icons=true&theme=gotham)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tdubs42&layout=compact&theme=gotham)](https://github.com/tdubs42/github-readme-stats)
 
@@ -29,6 +27,8 @@
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat-square&logo=figma&logoColor=white&color=557c94)
 ![](https://img.shields.io/badge/Tools-GIMP-informational?style=flat-square&logo=gimp&logoColor=white&color=557c94)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=557c94)
+
+## Let's talk about your project <img src="https://github.com/tdubs42/tdubs42/blob/main/wave.gif" width="30px">
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]. Honestly, [e-mail](mailto:tdubs@duck.com) is the best way to reach me quickly though :)
 
