@@ -8,6 +8,8 @@
 # Tech Stack
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=557c94)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=557c94)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=macos&logoColor=white&color=557c94)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=557c94)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=557c94)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=557c94)
