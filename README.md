@@ -1,7 +1,8 @@
 ![Heyo, my name is tdubs and I'm a full stack web developer that advocates for accessibility. Let's chat!](https://github.com/tdubs42/tdubs42/blob/main/bio.gif)
 
 ![tdubs' GitHub stats](https://github-readme-stats.vercel.app/api?username=tdubs42&&count_private=true&show_icons=true&theme=gotham)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tdubs42&layout=compact&theme=gotham)](https://github.com/tdubs42/github-readme-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tdubs42&layout=compact&theme=gotham)
 
 # Full Tech Stack
 
@@ -32,6 +33,10 @@
 ![](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
 
 # Current Projects
+
+![github-readme-streak-stats](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=laarzae-studios&repo=PMR&theme=gotham&icon_color=F8D866&hide_border=true&show_icons=false)
+![github-readme-streak-stats](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lambda-school-labs&repo=human-rights-first-docdb-fe&theme=gotham&icon_color=F8D866&hide_border=true&show_icons=false)
+![github-readme-streak-stats](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lambda-school-labs&repo=human-rights-first-docdb-be&theme=gotham&icon_color=F8D866&hide_border=true&show_icons=false)
 
 ## Let's talk about your project <img src="https://github.com/tdubs42/tdubs42/blob/main/wave.gif" width="30px">
 
