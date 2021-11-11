@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/Q1ScS7eOCnD181rntm/giphy.gif" alt="Heyo, my name is tdubs and I'm a full stack web developer that advocates for accessibility. Let's chat!" width="100%" />
+![Heyo, my name is tdubs and I'm a full stack web developer that advocates for accessibility. Let's chat!](https://github.com/tdubs42/tdubs42/blob/main/bio.gif) 
 
 <!--
 **tdubs42/tdubs42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
