@@ -5,6 +5,20 @@
 ![tdubs' GitHub stats](https://github-readme-stats.vercel.app/api?username=tdubs42&&count_private=true&show_icons=true&theme=gotham)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tdubs42&layout=compact&theme=gotham)](https://github.com/tdubs42/github-readme-stats)
 
+# Tech Stack
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat-square&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat-square&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat-square&logo=digitalocean&logoColor=white&color=2bbc8a)
+
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]. Honestly, [e-mail](mailto:tdubs@duck.com) is the best way to reach me quickly though :)
 
 <!-- Icons -->
