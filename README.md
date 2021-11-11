@@ -34,13 +34,18 @@
 
 # Current Projects
 
-![github-readme-streak-stats](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=laarzae-studios&repo=PMR&theme=gotham&icon_color=F8D866&hide_border=true&show_icons=false)
+![repo stats for laarze studios](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=laarzae-studios&repo=PMR&theme=gotham&icon_color=F8D866&hide_border=true&show_icons=false)
 ![github-readme-streak-stats](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lambda-school-labs&repo=human-rights-first-docdb-fe&theme=gotham&icon_color=F8D866&hide_border=true&show_icons=false)
 ![github-readme-streak-stats](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lambda-school-labs&repo=human-rights-first-docdb-be&theme=gotham&icon_color=F8D866&hide_border=true&show_icons=false)
 
+## Deployed Links to Current Projects
+[Project Mage](https://laarzaestudios.org)
+
+>The second project concerns sensitive topics and therefore the forward facing site is entirely protcted via an Okta login page
+
 ## Let's talk about your project <img src="https://github.com/tdubs42/tdubs42/blob/main/wave.gif" width="30px">
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]. Honestly, [e-mail](mailto:tdubs@duck.com) is the best way to reach me quickly though :)
+#### You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]. Honestly, [e-mail](mailto:tdubs@duck.com) is the best way to reach me quickly though :)
 
 <!-- Icons -->
 
