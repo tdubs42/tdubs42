@@ -1,6 +1,7 @@
-<body align="venter">
-  
-![Heyo, my name is tdubs and I'm a full stack web developer that advocates for accessibility. Let's chat!](https://github.com/tdubs42/tdubs42/blob/main/bio.gif) 
+![Heyo, my name is tdubs and I'm a full stack web developer that advocates for accessibility. Let's chat!](https://github.com/tdubs42/tdubs42/blob/main/bio.gif)
+
+# Heyo! Let's talk about your project <img src="https://raw.githubusercontent.com/tdubs42/tdubs/42/blob/main/wave.gif" width="30px">
+
 ![tdubs' GitHub stats](https://github-readme-stats.vercel.app/api?username=tdubs42&&count_private=true&show_icons=true&theme=gotham)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tdubs42&layout=compact&theme=gotham)](https://github.com/tdubs42/github-readme-stats)
 
@@ -16,7 +17,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1]: https://twitter.com/TacoBoutCode
 [2]: https://www.linkedin.com/in/tdubs42
 
-</body>
 
 <!--
 **tdubs42/tdubs42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
