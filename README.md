@@ -5,7 +5,7 @@
 ![tdubs' GitHub stats](https://github-readme-stats.vercel.app/api?username=tdubs42&&count_private=true&show_icons=true&theme=gotham)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tdubs42&layout=compact&theme=gotham)](https://github.com/tdubs42/github-readme-stats)
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]. Honestly, [e-mail](tdubs@duck.com) is the best way to reach me quickly though :)
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]. Honestly, [e-mail](mailto:tdubs@duck.com) is the best way to reach me quickly though :)
 
 <!-- Icons -->
 
