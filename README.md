@@ -16,6 +16,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1]: https://twitter.com/TacoBoutCode
 [2]: https://www.linkedin.com/in/tdubs42
 
+</body>
 
 <!--
 **tdubs42/tdubs42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
