@@ -35,8 +35,8 @@
 # Current Projects
 
 ![repo stats for laarze studios](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=laarzae-studios&repo=PMR&theme=gotham&icon_color=F8D866&hide_border=true&show_icons=false)
-![github-readme-streak-stats](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lambda-school-labs&repo=human-rights-first-docdb-fe&theme=gotham&icon_color=F8D866&hide_border=true&show_icons=false)
-![github-readme-streak-stats](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lambda-school-labs&repo=human-rights-first-docdb-be&theme=gotham&icon_color=F8D866&hide_border=true&show_icons=false)
+![github-readme-streak-stats](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bloomtech-labs&repo=human-rights-first-docdb-fe&theme=gotham&icon_color=F8D866&hide_border=true&show_icons=false)
+![github-readme-streak-stats](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bloomtech-labs&repo=human-rights-first-docdb-be&theme=gotham&icon_color=F8D866&hide_border=true&show_icons=false)
 
 ## Deployed Links to Current Projects
 [Project Mage](https://laarzaestudios.org)
