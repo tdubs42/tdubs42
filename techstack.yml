@@ -1,7 +1,8 @@
 repo_name: tdubs42/tdubs42
 report_id: 05735f8608f44f6f2acecba104514f66
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T23:08:23+00:00'
+timestamp: '2024-01-04T15:16:23+00:00'
 requested_by: tdubs42
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tdubs42/tdubs42
   detection_source: Repo Metadata
