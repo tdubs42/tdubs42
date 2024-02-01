@@ -1,4 +1,4 @@
-![Heyo, my name is tdubs and I'm a full stack web developer that advocates for accessibility. Let's chat!](https://github.com/tdubs42/tdubs42/blob/main/bio.gif)
+![Heyo, my name is tdubs and I'm a full stack web developer that advocates for accessibility. Let's chat!](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXlvcTZveGk1aXl1a3FsandnYXYxNWxiMzN5ZXFoZTJteTlwd3h0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oSGsAWb9HY0EC90r17/giphy-downsized-large.gif)
 
 ![tdubs' GitHub stats](https://github-readme-stats.vercel.app/api?username=tdubs42&&count_private=true&show_icons=true&theme=gotham)
 
