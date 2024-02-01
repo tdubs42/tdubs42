@@ -41,7 +41,7 @@
 
 ## Let's talk about your project <img src="https://github.com/tdubs42/tdubs42/blob/main/wave.gif" width="30px">
 
-#### You can find me on ![LinkedIn][2.2]][2] or [e-mail](mailto:contact-tdubs@pm.me) me! 
+#### You can find me on ![][2.2][2] or [e-mail](mailto:contact-tdubs@pm.me) me! 
 
 <!-- Icons -->
 [1.2]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white (LinkedIn badge)
