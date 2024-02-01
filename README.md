@@ -41,17 +41,13 @@
 
 ## Let's talk about your project <img src="https://github.com/tdubs42/tdubs42/blob/main/wave.gif" width="30px">
 
-#### You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]. Honestly, [e-mail](mailto:tdubs@duck.com) is the best way to reach me quickly though :)
+#### You can find me on [![LinkedIn][2.2]][2] or [e-mail](mailto:contact-tdubs@pm.me) me! 
 
 <!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white (LinkedIn badge)
 
 <!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/TacoBoutCode
-[2]: https://www.linkedin.com/in/tdubs42
+[1]: https://www.linkedin.com/in/tdubs42
 
 
 <!--
